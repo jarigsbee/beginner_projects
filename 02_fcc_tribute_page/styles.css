@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    margin: 0;
+  }
+  .subtitle {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 50px;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  
+  #img-caption {
+    text-align: center;
+  }
