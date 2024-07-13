@@ -5,6 +5,9 @@
 .logos {
     display: flex;
     gap: 50px;
+    justify-content: space-evenly;
+    align-items: end;
+
 }
 
 h1 {
@@ -19,12 +22,8 @@ h1 {
   }
   
   img {
-    max-width: 100%;
+    max-width: 250px;
     display: flex;
-    height: auto;
     margin: auto;
   }
   
-  #img-caption {
-    text-align: center;
-  }
